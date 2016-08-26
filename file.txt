@@ -1,1 +1,3 @@
 !!! Hello World!!!
+
+Changed the origin to test2 and added remote 'test1'
